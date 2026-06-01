@@ -55,6 +55,24 @@ body::before {
 
 @media (max-width: 900px) {
 
+   .contact-container {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .contact-box {
+        min-width: 0;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    input,
+    textarea,
+    button {
+        width: 100%;
+        box-sizing: border-box;
+    }
+   
     #projects-controls {
         flex-direction: column;
         align-items: stretch;
