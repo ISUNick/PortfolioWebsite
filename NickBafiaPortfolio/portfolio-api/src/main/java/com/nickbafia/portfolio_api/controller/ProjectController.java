@@ -37,10 +37,10 @@ public class ProjectController {
                 ),
                 Map.of(
                         ID, "3",
-                        TITLE, "This Very Website!",
+                        TITLE, "Portfolio Website (this one)",
                         DESCRIPTION, "This website demonstrates full-stack application design by connecting a Spring Boot backend to a dynamic frontend interface. It handles API-driven project rendering, client-side sorting, static asset management, form submission workflows, responsive design challenges, and scalable content updates without requiring frontend code changes when new projects are added.",
                         DATE, "2026-05-22",
-                        GITHUB, "https://github.com/ISUNick",
+                        GITHUB, "https://github.com/ISUNick/PortfolioWebsite",
                         LANG, "Java, HTML, CSS, Spring Boot, JavaScript"
                 ),
                 Map.of(
